@@ -1,1 +1,0 @@
-// A useEffect hook that will start the timer and clean it up afterward
